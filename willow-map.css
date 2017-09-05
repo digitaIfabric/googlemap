@@ -1,0 +1,15 @@
+html,
+body,
+#map {
+  width: 100%;
+  height: 100%;
+  font-family: Tangerine, serif;
+}
+
+
+/* tangerine font */
+@import url(https://fonts.googleapis.com/css?family=Tangerine");
+
+
+/* bigshot one font */
+@import url(https://fonts.googleapis.com/css?family=Bigshot+One);
